@@ -10,12 +10,14 @@ about:
 ---
 
 ## About me
-I am a PhD student in statistics. My subject is **Multisite stochastic generation of multivariate weather time series**. 
+Currently on a holiday until May 2026, I will be starting a postdoc in multivariate extremes at UCLouvain.
+I was a PhD student in statistics. My subject was **Multisite stochastic generation of multivariate weather time series**. 
 
-I am a part of the R38 team at EDF, as well as in [MIA-PS](https://mia-ps.inrae.fr/) team at [INRAE](https://www.inrae.fr/en), both located in Palaiseau.
+I was a part of the R38 team at EDF, as well as in [MIA-PS](https://mia-ps.inrae.fr/) team at [INRAE](https://www.inrae.fr/en), both located in Palaiseau.
 
 
-## Where to find me
+## Where to find me (obsolete)
+
   - Monday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau
   - Wednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau
   - Friday : any
