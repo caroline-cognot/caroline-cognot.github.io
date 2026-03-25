@@ -27,8 +27,6 @@ website:
         menu:
         - text: AgroParisTech (main adress)
           href: mailto:caroline.cognot@agroparistech.fr
-        - text: EDF (secondary adress)
-          href: mailto:caroline.cognot@edf.fr
 format:
   html:
     theme: styles.scss
