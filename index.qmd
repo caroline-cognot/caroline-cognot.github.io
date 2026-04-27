@@ -1,6 +1,6 @@
 ---
 #title: "Caroline Cognot"
-image: images/20260325_073355(1).jpg
+image: images/picturecaroline.jpg
 toc: false
 about: 
   template: marquee

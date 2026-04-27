@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Caroline Cognot",
     "section": "",
-    "text": "I am a PhD student in statistics. My subject is Multisite stochastic generation of multivariate weather time series.\nI am a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
+    "text": "Currently on a holiday until May 2026, I will be starting a postdoc in multivariate extremes at UCLouvain. I was a PhD student in statistics. My subject was Multisite stochastic generation of multivariate weather time series.\nI was a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
   },
   {
     "objectID": "CV.html",
@@ -74,7 +74,7 @@
     "href": "index.html#about-me",
     "title": "Caroline Cognot",
     "section": "",
-    "text": "I am a PhD student in statistics. My subject is Multisite stochastic generation of multivariate weather time series.\nI am a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
+    "text": "Currently on a holiday until May 2026, I will be starting a postdoc in multivariate extremes at UCLouvain. I was a PhD student in statistics. My subject was Multisite stochastic generation of multivariate weather time series.\nI was a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
   },
   {
     "objectID": "index.html#publications",
@@ -82,5 +82,12 @@
     "title": "Caroline Cognot",
     "section": "Publications",
     "text": "Publications\n Your browser does not support iframes, but you can visit &lt;a href=\"https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css\"&gt;Publications&lt;/a&gt;"
+  },
+  {
+    "objectID": "index.html#where-to-find-me-obsolete",
+    "href": "index.html#where-to-find-me-obsolete",
+    "title": "Caroline Cognot",
+    "section": "Where to find me (obsolete)",
+    "text": "Where to find me (obsolete)\n\nMonday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : any"
   }
 ]
