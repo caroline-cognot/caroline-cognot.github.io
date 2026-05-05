@@ -10,24 +10,26 @@ about:
 ---
 
 ## About me
-Currently on a holiday until May 2026, I will be starting a postdoc in multivariate extremes at UCLouvain.
-I was a PhD student in statistics. My subject was **Multisite stochastic generation of multivariate weather time series**. 
+Starting May 2026, I am a postdoctoral researcher in multivariate extremes at UCLouvain under the supervision of [Anna Kiriliouk](https://akiriliouk.github.io/).
+
+I was previously a PhD student in statistics under the supervision of Liliane Bel, Sylvie Parey and [David Métivier](https://davidmetivier.mistea.inrae.fr/). My subject was **Multisite stochastic generation of multivariate weather time series**. I used spatio-temporal statistics, Gaussian processes, parametric covariance functions, Hidden Markov models and other useful (needed !) tools to generate large samples of meteorological variables.
 
 I was a part of the R38 team at EDF, as well as in [MIA-PS](https://mia-ps.inrae.fr/) team at [INRAE](https://www.inrae.fr/en), both located in Palaiseau.
 
 
-## Where to find me (obsolete)
+## Where to find me 
 
-  - Monday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau
-  - Wednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau
-  - Friday : any
+ISBA - CV9
+L1.04.01
+Voie du Roman Pays 20
+1348 Louvain-la-Neuve
 
 ```{r echo=F}
 library(leaflet)
 
 leaflet() %>%
   addTiles() %>% # Add default OpenStreetMap map tiles
-  addMarkers(lat = c(48.715108,48.717186), lng = c(2.193015,2.197009))
+  addMarkers(lat = c(50.66829), lng = c(4.61443))
 ```
 
 ## Publications
