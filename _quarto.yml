@@ -25,8 +25,8 @@ website:
         target: _blank
       - icon: envelope
         menu:
-        - text: AgroParisTech (main adress)
-          href: mailto:caroline.cognot@agroparistech.fr
+        - text: UCLouvain (main adress)
+          href: mailto:caroline.cognot@uclouvain.be
 format:
   html:
     theme: styles.scss
