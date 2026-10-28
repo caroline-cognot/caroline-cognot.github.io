@@ -6,23 +6,19 @@ about:
   template: marquee
   image-shape: rectangle
   image-width: 20em
- 
 ---
 
 ## About me
+
 Starting May 2026, I am a postdoctoral researcher in multivariate extremes at UCLouvain under the supervision of [Anna Kiriliouk](https://akiriliouk.github.io/).
 
 I was previously a PhD student in statistics under the supervision of Liliane Bel, Sylvie Parey and [David Métivier](https://davidmetivier.mistea.inrae.fr/). My subject was **Multisite stochastic generation of multivariate weather time series**. I used spatio-temporal statistics, Gaussian processes, parametric covariance functions, Hidden Markov models and other useful (needed !) tools to generate large samples of meteorological variables.
 
 I was a part of the R38 team at EDF, as well as in [MIA-PS](https://mia-ps.inrae.fr/) team at [INRAE](https://www.inrae.fr/en), both located in Palaiseau.
 
+## Where to find me
 
-## Where to find me 
-
-ISBA - CV9
-L1.04.01
-Voie du Roman Pays 20
-1348 Louvain-la-Neuve
+ISBA - CV9 L1.04.01 Voie du Roman Pays 20 1348 Louvain-la-Neuve
 
 ```{r echo=F}
 library(leaflet)
@@ -34,7 +30,4 @@ leaflet() %>%
 
 ## Publications
 
-  <iframe  width="800" height="800" name="iframe-field_my_publications-572" id="iframe-field_my_publications-572" title="Publications" allow="accelerometer;autoplay;camera;encrypted-media;geolocation;gyroscope;microphone;payment;picture-in-picture" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css">
-    Your browser does not support iframes, but you can visit <a href="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css">Publications</a>
-  </iframe>
-  
+<iframe  width="800" height="800" name="iframe-field_my_publications-572" id="iframe-field_my_publications-572" title="Publications" allow="accelerometer;autoplay;camera;encrypted-media;geolocation;gyroscope;microphone;payment;picture-in-picture" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css"> Your browser does not support iframes, but you can visit <a href="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css">Publications</a> </iframe>

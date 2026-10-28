@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "bibliographie.html",
-    "href": "bibliographie.html",
-    "title": "biblio",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
     "section": "",
-    "text": "Voici ma bibliographie."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Caroline Cognot",
-    "section": "",
-    "text": "Starting May 2026, I am a postdoctoral researcher in multivariate extremes at UCLouvain under the supervision of Anna Kiriliouk.\nI was previously a PhD student in statistics under the supervision of Liliane Bel, Sylvie Parey and David Métivier. My subject was Multisite stochastic generation of multivariate weather time series. I used spatio-temporal statistics, Gaussian processes, parametric covariance functions, Hidden Markov models and other useful (needed !) tools to generate large samples of meteorological variables.\nI was a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
+    "text": "New package : SpatialBernoulli.jl\n\n\n\n\n\n\nCaroline Cognot\n\n\nFeb 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first article is published\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "CV.html",
@@ -28,25 +14,11 @@
     "text": "Download CV"
   },
   {
-    "objectID": "CV.html#callout-blocks",
-    "href": "CV.html#callout-blocks",
-    "title": "Collapse-callout Example",
-    "section": "Callout Blocks",
-    "text": "Callout Blocks\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption."
-  },
-  {
-    "objectID": "CV.html#more-callout-blocks",
-    "href": "CV.html#more-callout-blocks",
-    "title": "Collapse-callout Example",
-    "section": "More callout blocks",
-    "text": "More callout blocks\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThis is important\n\n\n\n\n\n\n\n\nwarning\n\n\n\nWARNINGS !!!!"
-  },
-  {
-    "objectID": "index.html#where-to-find-me",
-    "href": "index.html#where-to-find-me",
-    "title": "Caroline Cognot",
-    "section": "Where to find me",
-    "text": "Where to find me\nISBA - CV9 L1.04.01 Voie du Roman Pays 20 1348 Louvain-la-Neuve"
+    "objectID": "bibliographie.html",
+    "href": "bibliographie.html",
+    "title": "biblio",
+    "section": "",
+    "text": "Voici ma bibliographie."
   },
   {
     "objectID": "posts/my_first_package.html",
@@ -56,18 +28,18 @@
     "text": "My very first package\nI am pleased to announce that my very first real package is available on GitHub : SpatialBernoulli\n\n\n\nSome realisations of a spatially correlated binary variable…\n\n\n\n\nInstallation\nThe package runs on julia 1.11 and above. In a Julia session switch to pkg&gt; mode to add the package:\njulia&gt;] # switch to pkg&gt; mode\npkg&gt; add https://github.com/caroline-cognot/SpatialBernoulli.jl\nTo run an example, see documentation.\nFor now, model fitting relies on Optimization.\n\n\nHow did I build this package ?\nFollowed instructions from\n\nhttps://julialang.org/contribute/developing_package/ for the creation of the package using PkgTemplates\nhttps://documenter.juliadocs.org/stable/man/guide/ for setting up the documentation\nhttps://m3g.github.io/JuliaNotes.jl/stable/publish_docs/ for publishing the documentation\n\n\n\nHow did I build this page ?\nFollowed the code of Léo Micollet who followed the instructions of Lucia Clarotto who followed the instructions she gave us in StateoftheR session."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Posts",
-    "section": "",
-    "text": "New package : SpatialBernoulli.jl\n\n\n\n\n\n\nCaroline Cognot\n\n\nFeb 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first article is published\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/my_first_article.html",
     "href": "posts/my_first_article.html",
     "title": "My first article is published",
     "section": "",
     "text": "Publication success !\nI am pleased to announce that my very first paper is published here : A spatio-temporal weather generator for the temperature over France. It is a joint paper with my supervisors, Liliane Bel, Sylvie Parey and David Métivier.\nIt talks about the modelling of mean daily temperature at the scale of France, incorporating trends, seasonality and spatio-temporal geostatistics.\n\n\n\nArticle thumbnail image"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Caroline Cognot",
+    "section": "",
+    "text": "Starting May 2026, I am a postdoctoral researcher in multivariate extremes at UCLouvain under the supervision of Anna Kiriliouk.\nI was previously a PhD student in statistics under the supervision of Liliane Bel, Sylvie Parey and David Métivier. My subject was Multisite stochastic generation of multivariate weather time series. I used spatio-temporal statistics, Gaussian processes, parametric covariance functions, Hidden Markov models and other useful (needed !) tools to generate large samples of meteorological variables.\nI was a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
   },
   {
     "objectID": "index.html#about-me",
@@ -77,6 +49,13 @@
     "text": "Starting May 2026, I am a postdoctoral researcher in multivariate extremes at UCLouvain under the supervision of Anna Kiriliouk.\nI was previously a PhD student in statistics under the supervision of Liliane Bel, Sylvie Parey and David Métivier. My subject was Multisite stochastic generation of multivariate weather time series. I used spatio-temporal statistics, Gaussian processes, parametric covariance functions, Hidden Markov models and other useful (needed !) tools to generate large samples of meteorological variables.\nI was a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
   },
   {
+    "objectID": "index.html#where-to-find-me",
+    "href": "index.html#where-to-find-me",
+    "title": "Caroline Cognot",
+    "section": "Where to find me",
+    "text": "Where to find me\nISBA - CV9 L1.04.01 Voie du Roman Pays 20 1348 Louvain-la-Neuve"
+  },
+  {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
     "title": "Caroline Cognot",
@@ -84,10 +63,10 @@
     "text": "Publications\n Your browser does not support iframes, but you can visit &lt;a href=\"https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css\"&gt;Publications&lt;/a&gt;"
   },
   {
-    "objectID": "index.html#where-to-find-me-obsolete",
-    "href": "index.html#where-to-find-me-obsolete",
-    "title": "Caroline Cognot",
-    "section": "Where to find me (obsolete)",
-    "text": "Where to find me (obsolete)\n\nMonday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : any"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
