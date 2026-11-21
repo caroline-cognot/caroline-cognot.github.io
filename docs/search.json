@@ -21,6 +21,13 @@
     "text": "Voici ma bibliographie."
   },
   {
+    "objectID": "posts/my_first_article.html",
+    "href": "posts/my_first_article.html",
+    "title": "My first article is published",
+    "section": "",
+    "text": "Publication success !\nI am pleased to announce that my very first paper is published here : A spatio-temporal weather generator for the temperature over France. It is a joint paper with my supervisors, Liliane Bel, Sylvie Parey and David Métivier.\nIt talks about the modelling of mean daily temperature at the scale of France, incorporating trends, seasonality and spatio-temporal geostatistics.\n\n\n\nArticle thumbnail image"
+  },
+  {
     "objectID": "posts/my_first_package.html",
     "href": "posts/my_first_package.html",
     "title": "New package : SpatialBernoulli.jl",
@@ -28,11 +35,11 @@
     "text": "My very first package\nI am pleased to announce that my very first real package is available on GitHub : SpatialBernoulli\n\n\n\nSome realisations of a spatially correlated binary variable…\n\n\n\n\nInstallation\nThe package runs on julia 1.11 and above. In a Julia session switch to pkg&gt; mode to add the package:\njulia&gt;] # switch to pkg&gt; mode\npkg&gt; add https://github.com/caroline-cognot/SpatialBernoulli.jl\nTo run an example, see documentation.\nFor now, model fitting relies on Optimization.\n\n\nHow did I build this package ?\nFollowed instructions from\n\nhttps://julialang.org/contribute/developing_package/ for the creation of the package using PkgTemplates\nhttps://documenter.juliadocs.org/stable/man/guide/ for setting up the documentation\nhttps://m3g.github.io/JuliaNotes.jl/stable/publish_docs/ for publishing the documentation\n\n\n\nHow did I build this page ?\nFollowed the code of Léo Micollet who followed the instructions of Lucia Clarotto who followed the instructions she gave us in StateoftheR session."
   },
   {
-    "objectID": "posts/my_first_article.html",
-    "href": "posts/my_first_article.html",
-    "title": "My first article is published",
+    "objectID": "CV_fr.html",
+    "href": "CV_fr.html",
+    "title": "Curriculum vitae - français",
     "section": "",
-    "text": "Publication success !\nI am pleased to announce that my very first paper is published here : A spatio-temporal weather generator for the temperature over France. It is a joint paper with my supervisors, Liliane Bel, Sylvie Parey and David Métivier.\nIt talks about the modelling of mean daily temperature at the scale of France, incorporating trends, seasonality and spatio-temporal geostatistics.\n\n\n\nArticle thumbnail image"
+    "text": "Download CV"
   },
   {
     "objectID": "index.html",
@@ -60,7 +67,7 @@
     "href": "index.html#publications",
     "title": "Caroline Cognot",
     "section": "Publications",
-    "text": "Publications\n Your browser does not support iframes, but you can visit &lt;a href=\"https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css\"&gt;Publications&lt;/a&gt;"
+    "text": "Publications\n\n&lt;p&gt;Your browser does not support iframes, but you can visit &lt;a href=\"https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css\"&gt;Publications&lt;/a&gt;&lt;/p&gt;"
   },
   {
     "objectID": "about.html",

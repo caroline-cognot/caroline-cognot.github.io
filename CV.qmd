@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae
+title: Curriculum vitae - english
 execute:
   freeze: true  # never re-render during project render
 engine: knitr 
