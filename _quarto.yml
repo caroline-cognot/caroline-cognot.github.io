@@ -15,7 +15,7 @@ website:
     right: 
       - text: CV(en)
         icon: file-earmark-pdf
-        href: assets/CV_fev26.pdf
+        href: assets/CV_nov26.pdf
         target: _blank
       - text: CV(fr)
         icon: file-earmark-pdf
